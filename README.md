@@ -1,4 +1,4 @@
-# typemonger
+# TypeMonger
 
 A fully type-safe MongoDB ODM library for Javascript
 
